@@ -1,0 +1,47 @@
+﻿<Window x:Class="Pasport.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pasport"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition/>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition/>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition/>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition/>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition/>
+            <RowDefinition Height="0.1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.1*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.1*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.1*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.1*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.1*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.1*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.1*"/>
+        </Grid.ColumnDefinitions>
+ 
+        <Button Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="3" Content="Паспорт" FontSize="30" Click="Open_pasp" Style="{DynamicResource MyButtonStyle}"/>
+        <Button Grid.Row="1" Grid.Column="7" Grid.ColumnSpan="3" Content="Личные данные" FontSize="30" Click="Open_chel" Style="{DynamicResource MyButtonStyle}"/>
+
+        <Button Grid.Row="1" Grid.Column="11" Content="Сохранить" FontSize="20" Click="Sohr" Style="{DynamicResource MyButtonStyle}"/>
+        <Button Grid.Row="1" Grid.Column="1" Content="Выгрузить" FontSize="20" Click="Vigrus" Style="{DynamicResource MyButtonStyle}"/>
+
+        <Frame Grid.Row="2" Grid.Column="0" Grid.RowSpan="9" Grid.ColumnSpan="13" Name="Page___" NavigationUIVisibility="Hidden"/>
+    </Grid> 
+</Window>

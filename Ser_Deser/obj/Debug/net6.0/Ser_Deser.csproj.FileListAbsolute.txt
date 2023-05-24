@@ -1,0 +1,12 @@
+C:\Users\lolke\source\repos\Pasport\Ser_Deser\obj\Debug\net6.0\Ser_Deser.csproj.AssemblyReference.cache
+C:\Users\lolke\source\repos\Pasport\Ser_Deser\obj\Debug\net6.0\Ser_Deser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolke\source\repos\Pasport\Ser_Deser\obj\Debug\net6.0\Ser_Deser.AssemblyInfoInputs.cache
+C:\Users\lolke\source\repos\Pasport\Ser_Deser\obj\Debug\net6.0\Ser_Deser.AssemblyInfo.cs
+C:\Users\lolke\source\repos\Pasport\Ser_Deser\obj\Debug\net6.0\Ser_Deser.csproj.CoreCompileInputs.cache
+C:\Users\lolke\source\repos\Pasport\Ser_Deser\bin\Debug\net6.0\Ser_Deser.deps.json
+C:\Users\lolke\source\repos\Pasport\Ser_Deser\bin\Debug\net6.0\Ser_Deser.dll
+C:\Users\lolke\source\repos\Pasport\Ser_Deser\bin\Debug\net6.0\Ser_Deser.pdb
+C:\Users\lolke\source\repos\Pasport\Ser_Deser\obj\Debug\net6.0\Ser_Deser.dll
+C:\Users\lolke\source\repos\Pasport\Ser_Deser\obj\Debug\net6.0\refint\Ser_Deser.dll
+C:\Users\lolke\source\repos\Pasport\Ser_Deser\obj\Debug\net6.0\Ser_Deser.pdb
+C:\Users\lolke\source\repos\Pasport\Ser_Deser\obj\Debug\net6.0\ref\Ser_Deser.dll

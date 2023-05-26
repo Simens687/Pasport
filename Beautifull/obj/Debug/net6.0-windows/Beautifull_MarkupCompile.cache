@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 
-41451582263
+61513098450
 
 1725564981
 1941709816142
-FullDictionary.xaml;Themes\MyButton.xaml;Themes\MyTextBlock.xaml;Themes\MyTextBox.xaml;
+FullDictionary.xaml;Themes\MyButton.xaml;Themes\MyDatePiker.xaml;Themes\MyMiniButton.xaml;Themes\MyTextBlock.xaml;Themes\MyTextBox.xaml;
 
 False
 

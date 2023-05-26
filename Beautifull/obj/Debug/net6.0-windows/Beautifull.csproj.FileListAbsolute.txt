@@ -17,3 +17,5 @@ C:\Users\lolke\source\repos\Pasport\Beautifull\obj\Debug\net6.0-windows\Beautifu
 C:\Users\lolke\source\repos\Pasport\Beautifull\obj\Debug\net6.0-windows\Beautifull.AssemblyInfo.cs
 C:\Users\lolke\source\repos\Pasport\Beautifull\obj\Debug\net6.0-windows\Beautifull.csproj.CoreCompileInputs.cache
 C:\Users\lolke\source\repos\Pasport\Beautifull\obj\Debug\net6.0-windows\ref\Beautifull.dll
+C:\Users\lolke\source\repos\Pasport\Beautifull\obj\Debug\net6.0-windows\Themes\MyDatePiker.baml
+C:\Users\lolke\source\repos\Pasport\Beautifull\obj\Debug\net6.0-windows\Themes\MyMiniButton.baml

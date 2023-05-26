@@ -36,11 +36,11 @@
             <ColumnDefinition Width="0.1*"/>
         </Grid.ColumnDefinitions>
  
-        <Button Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="3" Content="Паспорт" FontSize="30" Click="Open_pasp" Style="{DynamicResource MyButtonStyle}"/>
+        <Button Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="3" Content="Паспорт" FontSize="30" Click="Open_pasp" Style="{DynamicResource MyButtonStyle}" />
         <Button Grid.Row="1" Grid.Column="7" Grid.ColumnSpan="3" Content="Личные данные" FontSize="30" Click="Open_chel" Style="{DynamicResource MyButtonStyle}"/>
 
-        <Button Grid.Row="1" Grid.Column="11" Content="Сохранить" FontSize="20" Click="Sohr" Style="{DynamicResource MyButtonStyle}"/>
-        <Button Grid.Row="1" Grid.Column="1" Content="Выгрузить" FontSize="20" Click="Vigrus" Style="{DynamicResource MyButtonStyle}"/>
+        <Button Grid.Row="1" Grid.Column="11" Content="Сохранить" FontSize="20" Click="Sohr" Style="{DynamicResource MyMiniButtonStyle}"/>
+        <Button Grid.Row="1" Grid.Column="1" Content="Выгрузить" FontSize="20" Click="Vigrus" Style="{DynamicResource MyMiniButtonStyle}"/>
 
         <Frame Grid.Row="2" Grid.Column="0" Grid.RowSpan="9" Grid.ColumnSpan="13" Name="Page___" NavigationUIVisibility="Hidden"/>
     </Grid> 

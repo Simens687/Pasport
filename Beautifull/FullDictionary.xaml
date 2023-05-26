@@ -5,5 +5,7 @@
         <ResourceDictionary Source="Themes/MyButton.xaml"/>
         <ResourceDictionary Source="Themes/MyTextBlock.xaml"/>
         <ResourceDictionary Source="Themes/MyTextBox.xaml"/>
+        <ResourceDictionary Source="Themes/MyDatePiker.xaml"/>
+        <ResourceDictionary Source="Themes/MyMiniButton.xaml"/>
     </ResourceDictionary.MergedDictionaries>
 </ResourceDictionary>
